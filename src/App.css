@@ -1,1 +1,24 @@
 /*Schrijf hier jouw css voor jouw formulier*/
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 500px;
+    margin: 0 auto;
+    border: 3px solid gainsboro ;
+}
+
+label {
+}
+input {
+    margin: 0 0 10px 0;
+}
+textarea {
+    margin: 0 0 10px 0;
+}
+select {
+    margin: 0 0 10px 0;
+}
+
+
+
